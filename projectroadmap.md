@@ -1,7 +1,7 @@
-- [x] Find 10 feasible repositories to examine on Github.
-- [ ] Review Repositories to identify ones that are recently updated and are well documented.
-- [ ] Examine each potential project for a roadmap and well done readme file as well documented projects tend to be the best projets.
-- [ ] Once 5 well documented projects have been identified attempt to run each project.
-- [ ] While attempting to run each project, document issues and potential suggestions to the original maintainer.
-- [ ] If appicable suggest any changes or documentaions improvement to the original maintainer on Github.
-- [ ] Review all the code in your repository and document any sections, functions, or syntax you are unfamiliar with.
+- [x] 1) Find 10 feasible repositories to examine on Github.
+- [ ] 2) Review Repositories to identify ones that are recently updated and are well documented.
+- [ ] 3) Examine each potential project for a roadmap and well done readme file as well documented projects tend to be the best projets.
+- [ ] 4) Once 5 well documented projects have been identified attempt to run each project.
+- [ ] 5) While attempting to run each project, document issues and potential suggestions to the original maintainer.
+- [ ] 6) If appicable suggest any changes or documentaions improvement to the original maintainer on Github.
+- [ ] 7) Review all the code in your repository and document any sections, functions, or syntax you are unfamiliar with.
