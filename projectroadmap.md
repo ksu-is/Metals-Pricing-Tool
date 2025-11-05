@@ -7,5 +7,6 @@
 - [ ] 6) If appicable suggest any changes or documentaions improvement to the original maintainer on Github.
 - [ ] 7) Review the notes on the repositories you selected and choose one to clone for your project.  
 [Execution]
+- [ ] 1) Test and utilize the pull features in Github to be sure changes will reflect correctly in both places.
 - [ ] 1) Once you have your clone be sure it is located within the KSU IS organization.
 - [ ] 2) Experiment with clone and address issues and the notes you made while selecting it.
