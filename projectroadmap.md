@@ -1,1 +1,3 @@
-
+- [x] Find 10 feasible repositories to examine on Github.
+- [ ] Review Repositories to identify ones that are recently updated and are well documented.
+- [ ] Examine each potential project for a roadmap and well done readme file as well documented projects tend to be the best projets.
