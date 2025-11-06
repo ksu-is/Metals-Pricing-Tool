@@ -11,5 +11,5 @@
 - [x] 2) Make several edits and double check code is updating correctly in Github.
 - [x] 3) Once you have your clone be sure it is located within the KSU IS organization.
 - [ ] 4) Compare code of cloned repository to the other final repositories to look for features that might be applicable.
-- [ ] 2) Experiment with clone and address issues and the notes you made while selecting it.
+- [ ] 5) Experiment with clone and address issues and the notes you made while selecting it.
 - After multiple failed attemps at a viable program to clone for a metals calculator without using expensive APIs or frameworks well beyond my capabilities switch project topic to frogger/crossy road style game.
