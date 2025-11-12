@@ -14,3 +14,5 @@
 - [x] 5) Compare code of cloned repository to the other final repositories to look for features that might be applicable.
 - [x] 6) Experiment with clone and address issues and the notes you made while selecting it.
 - After multiple failed attemps at a viable program to clone for a metals calculator without using expensive APIs or frameworks well beyond my capabilities switch project topic to frogger/crossy road style game.
+- [x] 7) Review and revise readme file from original repository and updated as new features are added.
+- [x] [ ] [ ] 8) Review main game file and determine 3 improvements or changes that coould me made to the game.  Check each box as you make improvements.
