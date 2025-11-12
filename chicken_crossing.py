@@ -265,6 +265,8 @@ def game_loop(difficulty, color_scheme):
             lives_text = font.render(f"Lives: {chicken.lives}", True, WHITE)
             screen.blit(score_text, (10, 10))
             screen.blit(lives_text, (10, 40))
+            controls_text = font.render("Arrows: Move | P: Pause", True, WHITE)
+            screen.blit(controls_text, (10, HEIGHT - 30))
 
             if paused:
                 pause_text = title_font.render("Paused", True, WHITE)
