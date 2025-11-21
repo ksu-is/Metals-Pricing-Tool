@@ -243,6 +243,8 @@ def game_loop(difficulty, color_scheme):
                     corn_rect = pygame.Rect(corn.x, corn.y, corn.width, corn.height)
                     if check_collision(chicken_rect, corn_rect):
                         chicken.score += 10
+                        if chicken.score == 1000:
+                            logging.info("Cluck yeah! You've reached 1000 pints!")
                         corn.x, corn.y = random.randint(0, WIDTH - corn.width), random.randint(50, HEIGHT - 100)
                         logging.info(random.choice(funny_messages))
 
@@ -271,6 +273,9 @@ def game_loop(difficulty, color_scheme):
             lives_text = font.render(f"Lives: {chicken.lives}", True, WHITE)
             screen.blit(score_text, (10, 10))
             screen.blit(lives_text, (10, 40))
+            if chicken.score >= 1000:
+                text_1000 = font.render("1000 Points!", True, YELLOW)
+                screen.blit(text_1000, (10,70))
             controls_text = font.render("Arrows: Move | P: Pause", True, WHITE)
             screen.blit(controls_text, (10, HEIGHT - 30))
 
