@@ -1,7 +1,7 @@
 # Chicken Crossing Chaos
 
 ## Introduction
-Welcome to **Chicken Crossing Chaos**, a hilariously chaotic 2D arcade game developed by **ChillHack Jake**, a passionate web developer from Hong Kong. In this game, you take control of a quirky chicken trying to cross a bustling highway filled with speeding cars while collecting tasty corn for points. With its simple yet addictive gameplay, funny sound effects (logged as text), and wacky events like random pigeons stealing corn, this game is designed to keep you entertained for hours!
+Welcome to **Chicken Crossing Chaos**, a hilariously chaotic 2D arcade game developed by **ChillHack Jake**, a passionate web developer from Hong Kong. In this game, you take control of a quirky chicken trying to cross a bustling highway filled with speeding cars while collecting tasty corn for points. With its simple yet addictive gameplay, funny sound effects (logged as text), and wacky events like random pigeons stealing corn, this game is designed to keep you entertained for hours!  This game has been adapted and developed by Ethan Jennings.  Several new features have been added and the game play has become smoother and more intuitive.
 
 ### Game Features
 - **Dynamic Gameplay**: Dodge cars, collect corn, and survive as long as you can to rack up a high score.
