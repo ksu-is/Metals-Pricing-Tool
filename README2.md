@@ -13,6 +13,7 @@ Built with `pygame`, this project is part of the Sprint-based Python course at K
 - Avoid getting hit by cars and other moving obstacles.
 - Reach the top of the screen to win the level.
 - If hit, the game restarts.
+- Gameplay controls will be displayed on the screen during gameplay.
 
 ---
 
